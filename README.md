@@ -1,5 +1,11 @@
 # Vet Clinic
 
+## AUTHORS
+Isaac Madrigal
+Jude Mai
+Yareni Perez
+Rayleen Richards
+
 ## PET OWNER DETAIL
 
 ## PET DETAILS

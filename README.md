@@ -40,7 +40,7 @@ For the accounts receivable table I used varchar for my id types because it woul
 ## PRESENTATION LINK 
 [link to Google Slides Presentation made by lucid chart](https://docs.google.com/presentation/d/12YfVAwFF7ExGGNaMwKP4DxIhIKLSXIY65-16OB-2_8k/edit?usp=sharing)
 
-// link to Lucid chart Diagram // https://lucid.app/lucidchart/53d0d32e-c37e-4253-8818-f19767c77935/edit?viewport_loc=-883%2C267%2C2386%2C861%2C0_0&invitationId=inv_fedce827-80c5-46a2-8e9f-81e3d1329d23 
+[link to Lucid chart Diagram](https://lucid.app/lucidchart/53d0d32e-c37e-4253-8818-f19767c77935/edit?viewport_loc=-883%2C267%2C2386%2C861%2C0_0&invitationId=inv_fedce827-80c5-46a2-8e9f-81e3d1329d23)
 
 ////For Dan//// If you don't have a lucid chart account, I can send you my school credentials to get in  -Rayleen 
 

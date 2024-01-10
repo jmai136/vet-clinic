@@ -38,7 +38,7 @@ The importance of adding a doctor payroll is to make sure that the doctors get p
 For the accounts receivable table I used varchar for my id types because it would allow me to create more unique id that would be able to have letters and numbers mixed in. For amount due I used money because this data type is meant to handle currency’s and would ensure that no money is lost. For paid I used binary because it would allow me to store a simple yes or no answer that would take up less space. -Yareni 
 
 ## PRESENTATION LINK 
-[link to Google Slides Presentation made by lucid chart]([https://docs.google.com/presentation/d/12YfVAwFF7ExGGNaMwKP4DxIhIKLSXIY65-16OB-2_8k/edit?usp=sharing](https://docs.google.com/presentation/d/11-CiRru1nwJIIA33o_FDRnCbR4q9ms2DvTIvCe_GZJE/edit?usp=sharing))
+[link to Google Slides Presentation made by lucid chart](https://docs.google.com/presentation/d/11-CiRru1nwJIIA33o_FDRnCbR4q9ms2DvTIvCe_GZJE/edit?usp=sharing)
 
 [link to Lucid chart Diagram](https://lucid.app/lucidchart/53d0d32e-c37e-4253-8818-f19767c77935/edit?viewport_loc=-883%2C267%2C2386%2C861%2C0_0&invitationId=inv_fedce827-80c5-46a2-8e9f-81e3d1329d23)
 
